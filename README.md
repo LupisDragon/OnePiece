@@ -9,16 +9,16 @@ No knowledge of glitches or dark rooms is required.
 **NOTE: This can result in super-short seeds**
 
 Settings- 
-Item Placement: Advanced
-Logic: Beatable
-GT Access: random
-Ganon: 7 crystals
-World State: Open
-Swords: Randomized
-Boss Shuffle: None
+  Item Placement: Advanced
+  Logic: Beatable
+  GT Access: random
+  Ganon: 7 crystals
+  World State: Open
+  Swords: Randomized
+  Boss Shuffle: None
 
 Some of the more complexities-
-Maps, compasses, and big keys are shuffled outside of dungeons. There is currently no text telling you what you've picked up, but the menu is available, so you can see what you got.
-Small keys have been converted to generic keys, and are shuffled outside of the dungeons.
-All heart pieces and normal heart containers have been replaced with Santuary Heart Containers. Rupees have been added to the pool to make up for resulting deficiencies.
-The single arrow drop was replaced with the triforce piece.
+  Maps, compasses, and big keys are shuffled outside of dungeons. There is currently no text telling you what you've picked up, but the menu is available, so you can see what you got.
+  Small keys have been converted to generic keys, and are shuffled outside of the dungeons.
+  All heart pieces and normal heart containers have been replaced with Santuary Heart Containers. Rupees have been added to the pool to make up for resulting deficiencies.
+  The single arrow drop was replaced with the triforce piece.
